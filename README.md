@@ -1,2 +1,2 @@
 # gridiron
-StaticFanatic
+PragmaticStatic
